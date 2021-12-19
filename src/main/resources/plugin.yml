@@ -1,0 +1,6 @@
+name: Me.manager
+version: '${project.version}'
+main: me.jozo.me.manager.Me.Main
+api-version: 1.17
+authors: [ Jozo_85 ]
+description: Plugin
