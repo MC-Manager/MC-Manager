@@ -1,2 +1,3 @@
 # MC-Manager
-description of our organization
+Spigot plugin 
+Link : 
